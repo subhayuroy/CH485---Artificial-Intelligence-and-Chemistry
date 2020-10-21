@@ -1,7 +1,4 @@
-
-
-
-# CH485---Artificial-Intelligence-and-Chemistry
+# CH485--Artificial-Intelligence-and-Chemistry
 
 ### Lecturer : Woo Youn Kim, TA : Seongok Ryu, 2018 Fall
 ### Deparment of Chemistry, Korea Advanced Institute of Science and Technology (KAIST)
